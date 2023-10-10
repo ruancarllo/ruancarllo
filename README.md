@@ -1,4 +1,4 @@
-# ⚛ Who is Ruan, the Electron Juggler?
+# ➥ Who is Ruan, the Electron Juggler?
 
 Hello World! 👋 I'm a Brazilian **software developer** and a lover of computer technology.
 
