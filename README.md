@@ -20,7 +20,9 @@ I am 18 years old, and I am in my third year of high school, in which I had the 
           <img width="200" src="images/quasar-logo.png">
         </a>
       </th>
-      <th>Quasar is an educational application that provides an innovative study method, inspired by machine learning and the flow of a social network. Its function is to build an infinite collection of random solved questions from the main Brazilian entrance exams.</th>
+      <th>
+        <p>Quasar is an educational application that provides an innovative study method, inspired by machine learning and the flow of a social network. Its function is to build an infinite collection of random solved questions from the main Brazilian entrance exams.</p>  
+      </th>
     </tr>
     <tr>
       <th>
@@ -28,15 +30,9 @@ I am 18 years old, and I am in my third year of high school, in which I had the 
           <img width="200" src="images/projetus_cloud-logo.png">
         </a>
       </th>
-      <th>Projetus.cloud is a cloud computing platform, active on both servers and clients. Using WebSocket connections and a simple interface built with Flutter, it performs actions such as accessing, creating and removing files and folders from the target computer.</th>
-    </tr>
-    <tr>
       <th>
-        <a href="https://github.com/ruancarllo/excalibur">
-          <img width="200" src="images/excalibur-logo.png">
-        </a>
+        <p>Projetus.cloud is a cloud computing platform, active on both servers and clients. Using WebSocket connections and a simple interface built with Flutter, it performs actions such as accessing, creating and removing files and folders from the target computer.</p>  
       </th>
-      <th>Excalibur is an extension for the three-dimensional modeling program called Rhinoceros, which displays a graphical interface for defining object expansion parameters. This process is based on complex arithmetic progression calculations.</th>
     </tr>
     <tr>
       <th>
@@ -44,7 +40,19 @@ I am 18 years old, and I am in my third year of high school, in which I had the 
           <img width="200" src="images/pirilampo-logo.png">
         </a>
       </th>
-      <th>Pirilampo is an artificial intelligence bot for the Discord social network, capable of answering any student questions (using the ChatGPT API), directing access to virtual handouts and generating messages of random resolved questions.</th>
+      <th>
+        <p>Pirilampo is an artificial intelligence bot for the Discord social network, capable of answering any student questions (using the ChatGPT API), directing access to virtual handouts and generating messages of random resolved questions..</p> 
+      </th>
+    </tr>
+    <tr>
+      <th>
+        <a href="https://github.com/ruancarllo/excalibur">
+          <img width="200" src="images/excalibur-logo.png">
+        </a>
+      </th>
+      <th>
+        <p>Excalibur is an extension for the three-dimensional modeling program called Rhinoceros, which displays a graphical interface for defining object expansion parameters. This process is based on complex arithmetic progression calculations.</p>  
+      </th>
     </tr>
   </tbody>
 </table>
@@ -58,11 +66,13 @@ I am 18 years old, and I am in my third year of high school, in which I had the 
   <img src="https://img.shields.io/badge/typescript-3078C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/scss-C6538C.svg?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS">
   <img src="https://img.shields.io/badge/dart-00a58f.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/c%23-7054D7.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/c%23-36008D.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/python-646464.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/node%2ejs-3C863B.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/npm-cb3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/deno-000000.svg?style=for-the-badge&logo=deno&logoColor=white" alt="Deno">
   <img src="https://img.shields.io/badge/bun-282a36.svg?style=for-the-badge&logo=bun&logoColor=fbf0df" alt="Bun">
+  <img src="https://img.shields.io/badge/shell-3E474A.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell">
   <img src="https://img.shields.io/badge/react-202332.svg?style=for-the-badge&logo=react&logoColor=61dafb" alt="React">
   <img src="https://img.shields.io/badge/preact-673AB7.svg?style=for-the-badge&logo=preact&logoColor=white" alt="Preact">
   <img src="https://img.shields.io/badge/flutter-02569b.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
