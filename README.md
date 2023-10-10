@@ -17,7 +17,7 @@ I am 18 years old, and I am in my third year of high school, in which I had the 
     <tr>
       <th>
         <a href="https://github.com/ruancarllo/quasar">
-          <img width="200" src="images/quasar-logo.png">
+          <img width="150" src="images/quasar-logo.png">
         </a>
       </th>
       <th>
@@ -27,7 +27,7 @@ I am 18 years old, and I am in my third year of high school, in which I had the 
     <tr>
       <th>
         <a href="https://github.com/ruancarllo/projetus.cloud">
-          <img width="200" src="images/projetus_cloud-logo.png">
+          <img width="150" src="images/projetus_cloud-logo.png">
         </a>
       </th>
       <th>
@@ -37,7 +37,7 @@ I am 18 years old, and I am in my third year of high school, in which I had the 
     <tr>
       <th>
         <a href="https://github.com/ruancarllo/pirilampo">
-          <img width="200" src="images/pirilampo-logo.png">
+          <img width="150" src="images/pirilampo-logo.png">
         </a>
       </th>
       <th>
@@ -47,7 +47,7 @@ I am 18 years old, and I am in my third year of high school, in which I had the 
     <tr>
       <th>
         <a href="https://github.com/ruancarllo/excalibur">
-          <img width="200" src="images/excalibur-logo.png">
+          <img width="150" src="images/excalibur-logo.png">
         </a>
       </th>
       <th>
