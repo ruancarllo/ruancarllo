@@ -21,7 +21,7 @@ I am 18 years old, and I am in my third year of high school, in which I had the 
         </a>
       </th>
       <th>
-        <p>Quasar is an educational application that provides an innovative study method, inspired by machine learning and the flow of a social network. Its function is to build an infinite collection of random solved questions from the main Brazilian entrance exams.</p>  
+        <p align="left">Quasar is an educational application that provides an innovative study method, inspired by machine learning and the flow of a social network. Its function is to build an infinite collection of random solved questions from the main Brazilian entrance exams.</p>  
       </th>
     </tr>
     <tr>
@@ -31,7 +31,7 @@ I am 18 years old, and I am in my third year of high school, in which I had the 
         </a>
       </th>
       <th>
-        <p>Projetus.cloud is a cloud computing platform, active on both servers and clients. Using WebSocket connections and a simple interface built with Flutter, it performs actions such as accessing, creating and removing files and folders from the target computer.</p>  
+        <p align="left">Projetus.cloud is a cloud computing platform, active on both servers and clients. Using WebSocket connections and a simple interface built with Flutter, it performs actions such as accessing, creating and removing files and folders from the target computer.</p>  
       </th>
     </tr>
     <tr>
@@ -41,7 +41,7 @@ I am 18 years old, and I am in my third year of high school, in which I had the 
         </a>
       </th>
       <th>
-        <p>Pirilampo is an artificial intelligence bot for the Discord social network, capable of answering any student questions (using the ChatGPT API), directing access to virtual handouts and generating messages of random resolved questions..</p> 
+        <p align="left">Pirilampo is an artificial intelligence bot for the Discord social network, capable of answering any student questions (using the ChatGPT API), directing access to virtual handouts and generating messages of random resolved questions.</p> 
       </th>
     </tr>
     <tr>
@@ -51,7 +51,7 @@ I am 18 years old, and I am in my third year of high school, in which I had the 
         </a>
       </th>
       <th>
-        <p>Excalibur is an extension for the three-dimensional modeling program called Rhinoceros, which displays a graphical interface for defining object expansion parameters. This process is based on complex arithmetic progression calculations.</p>  
+        <p align="left">Excalibur is an extension for the three-dimensional modeling program called Rhinoceros, which displays a graphical interface for defining object expansion parameters. This process is based on complex arithmetic progression calculations.</p>  
       </th>
     </tr>
   </tbody>
