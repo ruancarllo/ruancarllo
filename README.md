@@ -9,8 +9,8 @@ At the same time, I immersed myself in the study of different programming langua
 ## 🚀 Personal skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/html5-E44D27.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-2465F1.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/html-E44D27.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/css-2465F1.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/typescript-3078C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/scss-C6538C.svg?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS">
@@ -24,6 +24,7 @@ At the same time, I immersed myself in the study of different programming langua
   <img src="https://img.shields.io/badge/shell-3E474A.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell">
   <img src="https://img.shields.io/badge/react-202332.svg?style=for-the-badge&logo=react&logoColor=61dafb" alt="React">
   <img src="https://img.shields.io/badge/preact-673AB7.svg?style=for-the-badge&logo=preact&logoColor=white" alt="Preact">
+  <img src="https://img.shields.io/badge/svelte-F73B01.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte">
   <img src="https://img.shields.io/badge/flutter-02569b.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
 </p>
 
