@@ -1,11 +1,10 @@
 # ➥ Who is Ruan, the Electron Juggler?
 
-Hello World! 👋 I'm a Brazilian **software developer** and a lover of computer technology.
+Hello World 👋 ! I'm a Brazilian **software developer** and a lover of computer technology.
 
 I'm 18 years old and I've just finished my third year of high school, where I had the opportunity to take the **Digital World** elective course offered by [Sistema Anglo de Ensino](https://www.sistemaanglo.com.br), as well as **Gamification** provided by [Escola Pestalozzi](https://www.pestalozzi.com.br).
 
-At the same time, I immersed myself in studying different programming languages, with the purpose of providing countless ideas for countless projects I developed, whose purposes are mainly educational.
-
+At the same time, I immersed myself in the study of different programming languages, with the purpose of providing countless ideas for countless projects I developed, whose purposes are mainly educational. I also specialize in cloud computing topics with [AWS Skill Builder](https://skillbuilder.aws).
 
 ## 🚀 Personal skills
 
