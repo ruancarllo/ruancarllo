@@ -21,6 +21,7 @@ At the same time, I immersed myself in the study of different programming langua
   <img src="https://img.shields.io/badge/npm-cb3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/deno-000000.svg?style=for-the-badge&logo=deno&logoColor=white" alt="Deno">
   <img src="https://img.shields.io/badge/bun-282a36.svg?style=for-the-badge&logo=bun&logoColor=fbf0df" alt="Bun">
+  <img src="https://img.shields.io/badge/.NET-5027D5.svg?style=for-the-badge&logo=dotnet&logoColor=fbf0df" alt=".NET">
   <img src="https://img.shields.io/badge/shell-3E474A.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell">
   <img src="https://img.shields.io/badge/react-202332.svg?style=for-the-badge&logo=react&logoColor=61dafb" alt="React">
   <img src="https://img.shields.io/badge/preact-673AB7.svg?style=for-the-badge&logo=preact&logoColor=white" alt="Preact">
