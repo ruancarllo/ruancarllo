@@ -14,6 +14,16 @@ I am 18 years old, and I am in my third year of high school, in which I had the 
     </tr>
   </thead>
   <tbody>
+  <tr>
+      <th>
+        <a href="https://github.com/ruancarllo/semaphore">
+          <img width="150" src="images/semaphore-logo.png">
+        </a>
+      </th>
+      <th>
+        <p align="left">Semaphore is an application for business purposes, which allows the organization and categorization of orders in an elegant and easily navigable interface. It uses as a database the handling of JSON files stored on the disk of each supported operating system.</p>  
+      </th>
+    </tr>
     <tr>
       <th>
         <a href="https://github.com/ruancarllo/quasar">
