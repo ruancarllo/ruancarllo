@@ -2,7 +2,31 @@
 
 Hello World! 👋 I'm a Brazilian **software developer** and a lover of computer technology.
 
-I am 18 years old, and I am in my third year of high school, in which I had the opportunity to take the **Digital World** elective offered by [Sistema Anglo de Ensino](https://www.sistemaanglo.com.br), as well as **Gamification** provided by [Escola Pestalozzi](https://www.pestalozzi.com.br). At the same time, I immersed myself in the studies of different programming languages, with the purpose of supplying the countless ideas of countless projects that I designed, whose purposes are mostly educational.
+I'm 18 years old and I've just finished my third year of high school, where I had the opportunity to take the **Digital World** elective course offered by [Sistema Anglo de Ensino](https://www.sistemaanglo.com.br), as well as **Gamification** provided by [Escola Pestalozzi](https://www.pestalozzi.com.br).
+
+At the same time, I immersed myself in studying different programming languages, with the purpose of providing countless ideas for countless projects I developed, whose purposes are mainly educational.
+
+
+## 🚀 Personal skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-E44D27.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-2465F1.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/typescript-3078C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/scss-C6538C.svg?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS">
+  <img src="https://img.shields.io/badge/dart-00a58f.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/c%23-36008D.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/python-646464.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/node%2ejs-3C863B.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/npm-cb3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/deno-000000.svg?style=for-the-badge&logo=deno&logoColor=white" alt="Deno">
+  <img src="https://img.shields.io/badge/bun-282a36.svg?style=for-the-badge&logo=bun&logoColor=fbf0df" alt="Bun">
+  <img src="https://img.shields.io/badge/shell-3E474A.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell">
+  <img src="https://img.shields.io/badge/react-202332.svg?style=for-the-badge&logo=react&logoColor=61dafb" alt="React">
+  <img src="https://img.shields.io/badge/preact-673AB7.svg?style=for-the-badge&logo=preact&logoColor=white" alt="Preact">
+  <img src="https://img.shields.io/badge/flutter-02569b.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+</p>
 
 ## 📘 Main projects
 
@@ -66,24 +90,3 @@ I am 18 years old, and I am in my third year of high school, in which I had the 
     </tr>
   </tbody>
 </table>
-
-## 🚀 Personal skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/html5-E44D27.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-2465F1.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/typescript-3078C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/scss-C6538C.svg?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS">
-  <img src="https://img.shields.io/badge/dart-00a58f.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/c%23-36008D.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/python-646464.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/node%2ejs-3C863B.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/npm-cb3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/deno-000000.svg?style=for-the-badge&logo=deno&logoColor=white" alt="Deno">
-  <img src="https://img.shields.io/badge/bun-282a36.svg?style=for-the-badge&logo=bun&logoColor=fbf0df" alt="Bun">
-  <img src="https://img.shields.io/badge/shell-3E474A.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell">
-  <img src="https://img.shields.io/badge/react-202332.svg?style=for-the-badge&logo=react&logoColor=61dafb" alt="React">
-  <img src="https://img.shields.io/badge/preact-673AB7.svg?style=for-the-badge&logo=preact&logoColor=white" alt="Preact">
-  <img src="https://img.shields.io/badge/flutter-02569b.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-</p>
