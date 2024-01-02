@@ -4,7 +4,7 @@
 
 I'm 18 years old and I've just finished my third year of high school, where I had the opportunity to take the **Digital World** elective course offered by [Anglo Education System](https://www.sistemaanglo.com.br), as well as **Gamification** provided by [Pestalozzi School](https://www.pestalozzi.com.br).
 
-At the same time, I immersed myself in the study of different programming languages, with the purpose of implementing ideas from countless projects developed by me, whose purposes are mainly educational. I also specialize in cloud computing topics with [AWS Skill Builder](https://skillbuilder.aws).
+At the same time, I immersed myself in the study of different programming languages, with the purpose of implementing ideas from countless projects, whose purposes are mainly educational. I also specialize in cloud computing topics with [AWS Skill Builder](https://skillbuilder.aws).
 
 ## 🚀 Personal skills
 
