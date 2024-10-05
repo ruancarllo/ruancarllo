@@ -6,12 +6,7 @@ Atualmente, tenho 19 anos de idade, e trabalho como programador no [MeuCPD Solu�
 
 Institucionalmente, fui aluno nos moldes do [Sistema Anglo de Ensino](https://www.sistemaanglo.com.br/) e da [Universidade Estadual Paulista (Unesp)](https://www2.unesp.br/), ambientes que, em conjunto com o Movimento Empresa Júnior do qual participei, inspiraram-me à abertura de uma startup independente, denominada [CarlloTech: Pesquisa & Desenvolvimento](https://carllotech.com/).
 
-<div style="display: flex; align-items: center; border-radius: 8px; padding: 16px;background-color: rgba(0, 123, 255, 0.3);">
-  <img src="images/carllotech-logo.svg" alt="Ícone" style="width: 56px; margin-right: 16px; border-radius: 8px;">
-  <p style="color: white; margin: 0;">
-    Acompanhe <a href="https://www.linkedin.com/company/carllotech" style="color: white; text-decoration: underline">pelo LinkedIn</a> o atual progresso da CarlloTech P&D no setor de inteligência artificial (IA) generativa para modelos 3D de solados.
-  </p>
-</div>
+<img src="images/carllotech-info.svg" alt="" style="width: 100%">
 
 ## 🚀 Ferramentas que utilizo
 
