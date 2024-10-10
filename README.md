@@ -1,13 +1,17 @@
 # ➥ Quem é Ruan, o Malabarista de Elétrons?
 
-**Olá, mundo!** Sou um desenvolvedor de *software* brasileiro e recém-empreendedor. Aprecio veemente o universo da tecnologia computacional, e busco a permanente atualização com as mais novas tecnologias e estudos da contemporaneidade.
+**Olá, mundo!** Sou um desenvolvedor de _software_ brasileiro e recém-empreendedor. Aprecio veemente o universo da tecnologia computacional, e busco a permanente atualização com as mais novas tecnologias e estudos da contemporaneidade.
 
 Atualmente, tenho 19 anos de idade, e minha última experiência empresarial foi como como programador no [MeuCPD Soluções Tecnológicas](https://meucpd.com.br/), onde contribuía para projetos e, continuamente, aprimorava as minhas habilidades e competências adquiridas ao longo da minha formação.
 
 Institucionalmente, fui aluno nos moldes do [Sistema Anglo de Ensino](https://www.sistemaanglo.com.br/) e da [Universidade Estadual Paulista (Unesp)](https://www2.unesp.br/), ambientes que, em conjunto com o Movimento Empresa Júnior do qual participei, inspiraram-me à abertura de uma startup independente, denominada [CarlloTech: Pesquisa & Desenvolvimento](https://carllotech.com/).
 
 <a href="https://www.linkedin.com/company/carllotech">
-  <img src="images/carllotech-info.svg" alt="" style="width: 100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/carllotech-info-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="images/carllotech-info-light.svg">
+    <img src="images/carllotech-info-dark.svg">
+  </picture>
 </a>
 
 ## 🚀 Ferramentas que utilizo
@@ -47,7 +51,6 @@ Institucionalmente, fui aluno nos moldes do [Sistema Anglo de Ensino](https://ww
 <p align="center">
   <a href="#">Desenvolvimento multiplataforma</a> · <a href="#">Programação de plug-ins</a> · <a href="#">Construção de interfaces (UI/UX)</a> · <a href="#">Engenharia de microsserviços</a> · <a href="#">Sistemas de pagamento</a> · <a href="#">Aplicações web</a> · <a href="#">Produção de posts</a> · <a href="#">Edição e roteirização de vídeos</a> · <a href="#">Documentação de projetos</a>
 </p>
-
 
 ## 📘 Projetos pessoais
 
