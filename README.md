@@ -8,9 +8,9 @@ Institucionalmente, fui aluno nos moldes do [Sistema Anglo de Ensino](https://ww
 
 <a href="https://www.linkedin.com/company/carllotech">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/carllotech-info-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="images/carllotech-info-light.svg">
-    <img src="images/carllotech-info-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="images/carllotech-info-dark.svg" style="width: 100%">
+    <source media="(prefers-color-scheme: light)" srcset="images/carllotech-info-light.svg" style="width: 100%">
+    <img src="images/carllotech-info-dark.svg" style="width: 100%">
   </picture>
 </a>
 
