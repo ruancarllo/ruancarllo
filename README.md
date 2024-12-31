@@ -2,7 +2,7 @@
 
 **Olá, mundo!** Sou um desenvolvedor de *software* brasileiro e recém-empreendedor. Aprecio veemente o universo da tecnologia computacional, e busco a permanente atualização com as mais novas tecnologias e estudos da contemporaneidade.
 
-Atualmente, tenho 19 anos de idade, e trabalho como programador no [MeuCPD Soluções Tecnológicas](https://meucpd.com.br/), onde tenho contribuído para projetos e, continuamente, aprimorado as minhas habilidades e competências adquiridas ao longo da minha formação.
+Atualmente, tenho 19 anos de idade, e minha última experiência empresarial foi como como programador no [MeuCPD Soluções Tecnológicas](https://meucpd.com.br/), onde contribuía para projetos e, continuamente, aprimorava as minhas habilidades e competências adquiridas ao longo da minha formação.
 
 Institucionalmente, fui aluno nos moldes do [Sistema Anglo de Ensino](https://www.sistemaanglo.com.br/) e da [Universidade Estadual Paulista (Unesp)](https://www2.unesp.br/), ambientes que, em conjunto com o Movimento Empresa Júnior do qual participei, inspiraram-me à abertura de uma startup independente, denominada [CarlloTech: Pesquisa & Desenvolvimento](https://carllotech.com/).
 
