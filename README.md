@@ -1,10 +1,10 @@
-# ➥ Quem é Ruan, o Malabarista de Elétrons?
+# ➥ Quem é Ruan?
 
-**Olá, mundo!** Sou um desenvolvedor de _software_ brasileiro e recém-empreendedor. Aprecio veemente o universo da tecnologia computacional, e busco a permanente atualização com as mais novas tecnologias e estudos da contemporaneidade.
+**Olá, mundo!** Sou um desenvolvedor de _software_ brasileiro e empreendedor. Aprecio veemente o universo da tecnologia computacional, e busco a permanente atualização com as mais novas tecnologias e estudos da contemporaneidade.
 
-Atualmente, tenho 19 anos de idade, e minha última experiência empresarial foi como como programador no [MeuCPD Soluções Tecnológicas](https://meucpd.com.br/), onde contribuía para projetos e, continuamente, aprimorava as minhas habilidades e competências adquiridas ao longo da minha formação.
+Atualmente, tenho 20 anos de idade, e minha última experiência empresarial foi como como programador no [MeuCPD Soluções Tecnológicas](https://meucpd.com.br/), onde contribuía para projetos e, continuamente, aprimorava as minhas habilidades e competências adquiridas ao longo da minha formação.
 
-Institucionalmente, fui aluno nos moldes do [Sistema Anglo de Ensino](https://www.sistemaanglo.com.br/) e da [Universidade Estadual Paulista (Unesp)](https://www2.unesp.br/), ambientes que, em conjunto com o Movimento Empresa Júnior do qual participei, inspiraram-me à abertura de uma startup independente, denominada [CarlloTech: Pesquisa & Desenvolvimento](https://carllotech.com/).
+Institucionalmente, fui aluno nos moldes do [Sistema Anglo de Ensino](https://www.sistemaanglo.com.br/) e da [Universidade Estadual Paulista (Unesp)](https://www2.unesp.br/), ambientes que, em conjunto com o Movimento Empresa Júnior do qual participei, inspiraram-me à abertura de uma startup independente, denominada [CarlloTech: Pesquisa & Desenvolvimento LTDA](https://carllotech.com/).
 
 <a href="https://www.linkedin.com/company/carllotech" width="100%">
   <picture width="100%">
